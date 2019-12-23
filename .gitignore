@@ -8,7 +8,10 @@ bower_components### https://raw.github.com/github/gitignore/1a9f616ce525987555d4
 
 # Icon must end with two \r
 Icon
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1129e0fdc1d19a117c1cc62fb7068c6b6b4062d7
 
 # Thumbnails
 ._*
@@ -87,3 +90,4 @@ build-iPhoneSimulator/
 
 .jekyll-cache
 _site/
+/_site
